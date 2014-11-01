@@ -1,5 +1,3 @@
-create by Vid
-=============
 Load data from server(nodeJS)
 
 Таблица с сортировкой данных.
@@ -10,3 +8,7 @@ Load data from server(nodeJS)
 
 Архитектруа клиентского приложения обьектно-ориентированна.
 Для решения использовался нативный javascript, библиотеки jQuery и сортировка.
+
+
+=============
+created by Vid
