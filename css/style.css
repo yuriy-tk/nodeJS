@@ -1,0 +1,22 @@
+.sel {
+    width: 150px;
+    color: #333;
+    background-color: #fff;
+    border-color: #ccc;
+    border-radius: 3px;
+    padding: 3px;
+}
+
+#container {
+	margin: 0 auto;
+	width: 1200px;
+}
+
+#container tr {
+	border-left: 1px;
+	border-right: 1px;
+}
+
+table.sortable th:not(.sorttable_sorted):not(.sorttable_sorted_reverse):not(.sorttable_nosort):after { 
+    content: " \25B4\25BE" 
+}
